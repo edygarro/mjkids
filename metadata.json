@@ -1,0 +1,12 @@
+{
+  "name": "M&J Kids - Clínica Pediátrica",
+  "description": "Atención pediátrica y familiar integral en Nicoya, Guanacaste. Servicios de pediatría, terapias y portal del paciente.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Patient Portal",
+    "Appointment Scheduling",
+    "Specialist Directory"
+  ]
+}
